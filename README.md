@@ -1,5 +1,6 @@
-# AuLearnGit
+AuLearnGit
 ใช้สำหรับให้อู๋เรียน Git
+
 
 
 
